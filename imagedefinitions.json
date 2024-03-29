@@ -1,0 +1,6 @@
+[
+  {
+    "name": "CONTAINER-NAME",
+    "imageUri": "16*******.dkr.ecr.us-east-1.amazonaws.com/whiz_ecr:latest"
+  }
+]
